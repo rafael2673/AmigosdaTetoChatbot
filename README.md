@@ -11,19 +11,23 @@ A segunda é uma assistente virtual da própria TETO, a Tereza, que conversa com
 ---
 ### Instalação
 
+Para utilizar o referido código é preciso:
+- Possui npm instalado.
 
 ### Uso
 
-
+- Para utilizá-lo basta instalar as dependências da aplicação com 'npm install'.
+- Executar a aplicação com npm start.
 
 ## Proposta 01 - Backend ()
 ---
 ### Instalação
 
+- A aplicação feita em React possui tudo o que é necessário para a execução do Chatbot.
 
 ### Uso
 
-
+- Por meio do componente Simple Chatbot, as mensagens enviadas pelo Chatbot se concentram no front-end.
 
 ## Proposta 02 - Frontend ()
 ---
