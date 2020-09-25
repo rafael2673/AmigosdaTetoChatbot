@@ -1,0 +1,39 @@
+.chat-container {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.rsc-container .rsc-header {
+  padding: 0 20px;
+}
+
+.rsc-header-title {
+  margin: 0;
+  font-size: 18px;
+}
+
+.rsc-header-logo {
+  width: 50px;
+}
+
+/* .rsc-content {
+  height: calc(520px - 130px);
+} */
+.rsc-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.rsc-content::-webkit-scrollbar-thumb {
+  background: #005792; 
+  border-radius: 10px;
+}
+
+.rsc-input, .rsc-input::placeholder {
+  color: #fff;
+}
+
+.rsc-submit-button svg {
+  width: 22px;
+  height: 22px;
+}
